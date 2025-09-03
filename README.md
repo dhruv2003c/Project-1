@@ -1,2 +1,2 @@
-# Project-1
+# Projects
 Hear Trail Animation
